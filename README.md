@@ -1,6 +1,9 @@
 # e_commerce_back_end_13
 # Understanding Express.js and Sequelize Integration
 
+## Link to video of This Application in work
+- ** https://we.tl/t-8iPzDX9vYB **
+
 ## Setting Up Express.js
 
 - **Basics of creating an Express server.**
